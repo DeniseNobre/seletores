@@ -1,0 +1,50 @@
+div {
+	display: flex;
+	justify-content: center;
+}
+
+.vermelho {
+
+    display: inline-block;
+
+    background-color: red;
+
+    width: 200px;
+
+    height: 200px;
+
+}
+
+.azul {
+	display: inline-block;
+
+    background-color: blue;
+
+    width: 200px;
+
+    height: 200px;
+}
+
+.verde {
+	display: inline-block;
+
+    background-color: green;
+
+    width: 200px;
+
+    height: 200px;
+}
+
+.amarelo {
+	display: inline-block;
+
+    background-color: yellow;
+
+    width: 200px;
+
+    height: 200px;
+}
+
+#superior-direito, #superior-esquerdo, #inferior-direito, #inferior-esquerdo {
+	border: 1px solid black;
+}
